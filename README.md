@@ -22,6 +22,7 @@ Le seul bot Discord qui vous permet d'avoir des salons avec les statistiques du 
 <a href="https://discordbots.org/bot/579653463290675221" >
   <img src="https://discordbots.org/api/widget/status/579653463290675221.svg" alt="Atlanta" />
 </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2FAndroz2091%2FPaladiumBot?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FAndroz2091%2FPaladiumBot.svg?type=shield"/></a>
 
 ### Salons de stats
 
@@ -59,3 +60,6 @@ Si vous voulez utilisez des permissions différentes, cliquez [ici](https://fini
 Si vous avez besoin d'aide, nous sommes là pour vous répondre !
 
 [Discord](https://discord.gg/NPReeRB)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAndroz2091%2FPaladiumBot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAndroz2091%2FPaladiumBot?ref=badge_large)
